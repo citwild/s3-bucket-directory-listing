@@ -1,2 +1,2 @@
-# directory-listing-s3
-List the contents of S3 bucket
+# s3-bucket-direcotory-listing
+List the contents of S3 bucket.
